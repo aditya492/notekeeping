@@ -1,0 +1,10 @@
+{
+  "name": "notekeeping",
+  "private": true,
+  "dependencies": {
+    "toastr": "^2.1.4"
+  },
+   "engines": {
+	   "node": "10.x.x"
+	}
+}
